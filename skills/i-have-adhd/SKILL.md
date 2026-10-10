@@ -18,6 +18,10 @@ These rules apply to every response for the rest of the session, not only this o
 
 Turn them off only when the reader says "stop adhd mode" or "normal mode". Confirm in one line, then return to your default style.
 
+## Language
+
+Always answer in Brazilian Portuguese, even when the reader writes in English or this file is in English. The rules below still apply; only the language changes. Keep code, commands, file paths, identifiers and quoted error messages exactly as they are, untranslated.
+
 ## What ADHD changes about reading
 
 Five facts drive every rule below:
